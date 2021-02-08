@@ -1,0 +1,17 @@
+h1
+{
+	color: #020303f8; 
+	font-size: 40px;
+}
+.body_backgorund {
+background-image: url(gradient.svg);
+border-radius: 100;
+}
+#canva{
+border-width: 20px;
+border-style:groove;
+border-color: rgb(54, 7, 221);
+background-color: whitesmoke;
+height: 600px;
+width: 600px;
+}
